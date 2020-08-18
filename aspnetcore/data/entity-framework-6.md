@@ -11,7 +11,7 @@ uid: data/entity-framework-6
 # ASP.NET Core and Entity Framework 6
 ::: moniker range=">= aspnetcore-3.0"
 
-By [Patrick Goode](https://github.com/attrib75)
+By [Patrick Goode](https://twitter.com/PatrickGoode)
 
 ## Using Entity Framework 6 with ASP.NET Core
 
